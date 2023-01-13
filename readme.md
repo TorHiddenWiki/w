@@ -2,8 +2,6 @@
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
-| Site | URL in TOR (OnionV3 Link) |
-| --- | --- |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
