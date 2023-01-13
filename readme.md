@@ -2,7 +2,7 @@
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
-| -aa-- | -aa-- |
+| name | tor link |
 | --- | --- |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
