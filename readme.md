@@ -7,7 +7,7 @@
 | ProtonMail Email | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | Facebook social media | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | DuckDuckGo Search | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
-| Hidden wiki | [wikixuwf2gyjurubvwbcjtgafcrwhq2crikvsh3wawlis47ragjvn3qd.onion](http://wikixuwf2gyjurubvwbcjtgafcrwhq2crikvsh3wawlis47ragjvn3qd.onion) |
+| Hidden wiki (2023 working) | [wikixuwf2gyjurubvwbcjtgafcrwhq2crikvsh3wawlis47ragjvn3qd.onion](http://wikixuwf2gyjurubvwbcjtgafcrwhq2crikvsh3wawlis47ragjvn3qd.onion) |
 | Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
 | Mempool.space (BTC mempool log) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
 | Chemi 5 | [chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion](http://chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion) |
